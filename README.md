@@ -13,7 +13,7 @@
 - **Založen:** 1892
 - **Stadion:** Anfield
 - **Přezdívka:** The Reds
-- **Barvy:** červená a bílá
+- **Barvy:** červená
 
 ### 🧠 Proč zrovna Liverpool
 
@@ -105,4 +105,3 @@ flowchart TD
 
 ---
 
-*Vytvořeno jako školní úkol „Master of Markdown“.* 🚀
