@@ -70,32 +70,7 @@ const klub = { nazev: "Liverpool FC", stadion: "Anfield", zalozen: 1892 };
 console.log(`${klub.nazev} hraje na stadionu ${klub.stadion}.`);
 ```
 
-##  Bonus: matematika a diagram
 
-###  Výpočet bodů
-
-Počet bodů klubu v sezóně spočítáme ze vzorce, kde $V$ je počet výher a $R$ počet remíz:
-
-$$B = 3V + R$$
-
-Podíl vítězství v sezóně vyjádříme jako:
-
-```math
-p = \frac{V}{V + R + P} \cdot 100\ \%
-```
-
-###  Co se stane po zápase
-
-```mermaid
-flowchart TD
-    A[Konec zápasu] --> B{Výsledek}
-    B -- Výhra --> C[+3 body]
-    B -- Remíza --> D[+1 bod]
-    B -- Prohra --> E[0 bodů]
-    C --> F[Aktualizace tabulky]
-    D --> F
-    E --> F
-```
 
 ##  Užitečné odkazy
 
