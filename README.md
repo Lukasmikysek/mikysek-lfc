@@ -2,7 +2,7 @@
 
 ![Červený banner s nápisem Liverpool FC – profil klubu](images/TheKop.jpg)
 
-*Obrázek: vlastní banner k tomuto profilu (bez oficiálního loga klubu).*
+*Obrázek: The Kop *
 
 ##  Úvod
 
