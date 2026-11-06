@@ -1,5 +1,3 @@
-LFC
-
 # Liverpool FC
 
 ## 20 ligových titulů
