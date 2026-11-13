@@ -1,0 +1,17 @@
+
+{
+  "jmeno": "Lukáš Mikysek",
+  "vek": 17,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "ulice": "Hlavní 25",
+    "mesto": "Praha",
+    "psc": "100 00"
+  },
+  "konicky": [
+    "fotbal",
+    "počítačové hry",
+    "investování"
+  ]
+}
