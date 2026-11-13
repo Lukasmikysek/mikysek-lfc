@@ -2,7 +2,7 @@
   'uzivatel': "Karel99",
   "uroven": 15,
   // kontrola stavu účtu
-  "aktivni": True,
+  "aktivni": true,
   "posledni_prihlaseni": 2026-11-12,
   "odznaky": [
     "průzkumník",
